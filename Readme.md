@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - Master-detail - How to hide rows that do not have any details
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t532579/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to show only grid rows that have detail data. If the row detail grid is empty, that row should be hidden.</p>
